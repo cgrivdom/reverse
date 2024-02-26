@@ -1,7 +1,5 @@
 # Reverse
 
-<img src="https://socialify.git.ci/cgrd1/reverse/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" alt="project-image">
-
 ## Description:
 **Reverse** is a C program that reverses a WAV audio file.
 
